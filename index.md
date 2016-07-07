@@ -6,7 +6,7 @@
 # Git地址
 
 * 国外服务器  https://github.com/DuBin1988
-* 国内服务器  https://git.oschina.net/aote/logic
+* 国内服务器  https://git.oschina.net/aote
 
 # Git工程分类
 * 业务工程
@@ -78,6 +78,11 @@
     * 航天金税盘兼容工程，对外提供金税接口，和兼容工作步骤
     * 维护：杜斌
 https://github.com/DuBin1988/goldentax.git
+
+* ladp
+    *  资源服务
+    *  维护:何宁社
+    *  https://git.oschina.net/aote/ldap
 
 
 # 框架工程
